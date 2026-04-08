@@ -12,7 +12,5 @@ Este projeto é uma atividade prática de Programação Orientada a Objetos. Ele
 
 ## 🚀 Como Executar
 1. baixe o arquivo
-2. Compile o código usando o comando:
-  g++ main.cpp -o sistema
-3.Execute o programa:
-  ./sistema
+2. Compile o código usando o comando: g++ main.cpp -o sistema
+3. Execute o programa com: ./sistema
